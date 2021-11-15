@@ -42,7 +42,7 @@ More probabilistic models will be further included in pydpm/_model/...
 >Demo
 
 Create a PGBN model:
-```
+```python
 from pydpm._model import PGBN
 
 # create the model and deploy it on gpu or cpu
