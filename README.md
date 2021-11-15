@@ -13,7 +13,7 @@ Install
 =============
 This library can be installed under both Windows and Linux systems.
 
-```
+```bash
 $ pip install pydpm
 ```
 
@@ -86,7 +86,7 @@ The parameters of partial distribution functions are as following:
 
 >Example
 
-```
+```python
 from pydpm._sampler import Basic_Sampler
 
 sampler = Basic_Sampler('gpu')
